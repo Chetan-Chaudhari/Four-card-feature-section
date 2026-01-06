@@ -19,9 +19,9 @@ body {
   font-weight: 400;
 }
 .wrapper {
-  width: 60%;
+  width: 90%;
   margin: auto;
-  padding: 16px;
+  padding: 64px;
   @media (max-width: 375px) {
     width: 100%;
   }
