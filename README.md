@@ -73,7 +73,7 @@ Copy code
 
 ## 🔗 Links
 
-- Live Site URL: https://chetanchaudhari.github.io/four-card-feature-section/
+- Live Site URL: https://chetan-chaudhari.github.io/Four-card-feature-section/
 - **Challenge**: https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
 - **Frontend Mentor**: https://www.frontendmentor.io
 
