@@ -1,91 +1,103 @@
 # Four Card Feature Section
 
-This is a solution to the **Four Card Feature Section** challenge on Frontend Mentor.  
-The goal of this challenge is to build a responsive layout using modern CSS techniques.
+A responsive **Four Card Feature Section** built using **HTML and CSS**, based on the Frontend Mentor challenge. This project focuses on layout mastery using **CSS Grid and Flexbox**, clean structure, and desktop‑first responsive design.
 
 ---
 
-## 🚀 Overview
+## 📸 Screenshot
 
-### The challenge
+<img src="./images/screenshot.png" alt="Four Card Feature Section Preview" width="700">
 
-Users should be able to:
+## 🔗 Live Demo
 
-- View the optimal layout depending on their device’s screen size
-- See a clean, centered four-card layout on desktop
-- See cards stacked vertically on mobile
+👉 **Live Site:** [https://chetan-chaudhari.github.io/Four-card-feature-section/](https://chetan-chaudhari.github.io/Four-card-feature-section/)
 
 ---
 
-## 🛠️ Built with
+## 🛠 Tech Stack
 
-- Semantic HTML5
-- CSS Grid
-- Flexbox
-- CSS Custom Properties (Variables)
-- Google Fonts (Poppins)
-- Mobile-first workflow
+- **HTML5** – Semantic markup
+- **CSS3** – Grid, Flexbox, custom properties
+- **Desktop‑first workflow**
 
 ---
 
-## 📂 Project structure
+## ✨ Features
 
-├── index.html
-├── styles.css
-├── images/
-│ ├── icon-supervisor.svg
-│ ├── icon-team-builder.svg
-│ ├── icon-karma.svg
-│ └── icon-calculator.svg
-└── README.md
-
-yaml
-Copy code
+- Responsive layout for **mobile, tablet, and desktop**
+- Clean and minimal UI
+- CSS Grid–based card positioning
+- Reusable CSS variables for colors and spacing
 
 ---
 
-## 🎨 Design choices
+## 📐 Layout & Responsiveness
 
-- **CSS Grid** is used for the card layout to easily span cards across rows
-- **Flexbox** is used inside cards for vertical alignment
-- **CSS variables** are used for colors to keep the design consistent and maintainable
-- Cards automatically size based on their content
-- Shadows are applied using layered `box-shadow` for depth
+- CSS Grid used for the overall card layout
+- Flexbox used for internal card alignment
+- Breakpoints ensure proper spacing and alignment on larger screens
 
 ---
 
-## 📱 Responsive behavior
+## ♿ Accessibility Improvements
 
-- Desktop: 3-column grid with center-aligned side cards
-- Mobile (`≤ 375px`): Single-column stacked layout
-- Grid positioning is reset using `revert` inside media queries
-
----
-
-## 🧠 What I learned
-
-- How `grid-row` and `grid-column` work with spanning
-- How to prevent flex and grid items from stretching unexpectedly
-- Using `aspect-ratio` and intrinsic sizing concepts
-- Structuring CSS for scalability and readability
+- Semantic HTML structure
+- Meaningful `alt` text for images
+- Scalable font sizes
+- High-contrast color palette following the style guide
 
 ---
 
-## 🔗 Links
+## 🧠 What I Learned
 
-- Live Site URL: https://chetan-chaudhari.github.io/Four-card-feature-section/
-- **Challenge**: https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
-- **Frontend Mentor**: https://www.frontendmentor.io
-
----
-
-## ✍️ Author
-
-- Frontend Mentor – [Your profile link]
-- GitHub – [Your GitHub link]
+- How to combine **CSS Grid and Flexbox** effectively
+- Structuring layouts to match design mockups accurately
+- Writing maintainable CSS using variables
+- Building responsive UI components without JavaScript
 
 ---
 
-## 🙌 Acknowledgements
+## 🚀 Future Enhancements
 
-Thanks to Frontend Mentor for providing great real-world frontend challenges.
+- Add hover and focus states for cards
+- Improve keyboard navigation
+- Add subtle animations for better UX
+- Optional dark mode support
+
+---
+
+## 📂 Project Structure
+
+````text
+Four-card-feature-section/
+│── images/
+│── design/
+│── index.html
+│── styles.css
+│── README.md
+│── style-guide.md
+
+```md
+
+---
+
+## 👤 Author
+
+**Chetan Chaudhari**
+
+- GitHub: [https://github.com/Chetan-Chaudhari](https://github.com/Chetan-Chaudhari)
+
+---
+
+## 🙏 Acknowledgements
+
+- [Frontend Mentor](https://www.frontendmentor.io/) for the challenge and design assets
+
+---
+
+⭐ If you like this project, feel free to give it a star!
+````
+
+```
+
+```
